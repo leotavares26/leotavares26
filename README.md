@@ -31,7 +31,7 @@
 
 | Repo | What it is |
 | --- | --- |
-| [**octo-issue-brief**](https://github.com/leotavares26/octo-issue-brief) | Tiny Octavus worker that turns a GitHub issue into a maintainer-ready implementation brief |
+| [**octo-issue-brief**](https://github.com/leotavares26/octo-issue-brief) | Tiny maintainer tool that turns a GitHub issue into an implementation brief |
 | [**awesome-ai-agents**](https://github.com/leotavares26/awesome-ai-agents) | A curated map of the agent ecosystem: frameworks, memory, eval, papers |
 | [**agent-orchestration-patterns**](https://github.com/leotavares26/agent-orchestration-patterns) | Design patterns for building agents that actually hold up in production |
 | [**building-agents-notes**](https://github.com/leotavares26/building-agents-notes) | Field notes from shipping LLM agents |
