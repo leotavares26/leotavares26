@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://x.com/LeoTava8">𝕏 X</a> &nbsp;·&nbsp;
   <a href="https://scale-agents.hashnode.dev/">📝 Blog</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/leo-tavares-building-agents/">💼 LinkedIn</a>
 </p>
