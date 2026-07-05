@@ -32,6 +32,8 @@
 
 | Repo | What it is |
 | --- | --- |
+| [**octo-release-scout**](https://github.com/leotavares26/octo-release-scout) | Dependency upgrade scout that turns npm releases and changelogs into migration-risk briefs |
+| [**octo-ui-scout**](https://github.com/leotavares26/octo-ui-scout) | Bounded UI scout that turns a public page into a first-run QA map |
 | [**octo-issue-brief**](https://github.com/leotavares26/octo-issue-brief) | Tiny maintainer tool that turns a GitHub issue into an implementation brief |
 | [**octo-pr-lens**](https://github.com/leotavares26/octo-pr-lens) | Compact PR reviewer that turns a GitHub pull request into a merge-risk map |
 | [**awesome-ai-agents**](https://github.com/leotavares26/awesome-ai-agents) | A curated map of the agent ecosystem: frameworks, memory, eval, papers |
