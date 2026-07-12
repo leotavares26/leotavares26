@@ -32,6 +32,7 @@
 
 | Repo | What it is |
 | --- | --- |
+| [**octo-api-scout**](https://github.com/leotavares26/octo-api-scout) | Onboarding scout that turns an OpenAPI/Swagger spec into a cited client integration brief |
 | [**octo-release-scout**](https://github.com/leotavares26/octo-release-scout) | Dependency upgrade scout that turns npm releases and changelogs into migration-risk briefs |
 | [**octo-ui-scout**](https://github.com/leotavares26/octo-ui-scout) | Bounded UI scout that turns a public page into a first-run QA map |
 | [**octo-issue-brief**](https://github.com/leotavares26/octo-issue-brief) | Tiny maintainer tool that turns a GitHub issue into an implementation brief |
